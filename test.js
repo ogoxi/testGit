@@ -5,3 +5,5 @@ a++
 let b= 2
 
 b++
+
+let c = 3
